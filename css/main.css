@@ -1,0 +1,25 @@
+body{
+    background-image: url("../uploads/admin/background.png");
+    background-size: cover;
+    font-family: "Jost", sans-serif;
+}
+
+
+#headerContainer {
+    background-color: rgba(51, 51, 51, 0.9);
+}
+
+
+.bg-custom-product {
+background-color: rgba(255, 255, 255, 0.15);
+backdrop-filter: blur(20px);
+}
+.bg-custom-product-second {
+    background-color: rgba(24, 24, 24, 0.829);
+}
+
+
+.form-check-input:checked + label {
+    font-weight: bold;
+    color: #0d6efd;
+  }
