@@ -1,0 +1,9 @@
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'guest_email' in 'field list' LINE: 190 FILE: C:\xampp\htdocs\api_eshop\backend\service\OrderService.php
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' LINE: 80 FILE: C:\xampp\htdocs\api_eshop\backend\service\OrderService.php
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' LINE: 80 FILE: C:\xampp\htdocs\api_eshop\backend\service\OrderService.php
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' LINE: 80 FILE: C:\xampp\htdocs\api_eshop\backend\service\OrderService.php
+Uzivatel s id neexistuje LINE: 133 FILE: C:\xampp\htdocs\api_eshop\backend\service\UserService.php
+User Data se nepovedlo ziskat v getUserDataById UserController LINE: 140 FILE: C:\xampp\htdocs\api_eshop\backend\controller\UserController.php
+Nepovedlo se ziskat produkt data z databaze pomoci idecka LINE: 87 FILE: C:\xampp\htdocs\api_eshop\backend\service\ProductService.php
+nepodarilo se vybrat produkt pomoci id v getProductById | Product Controller LINE: 120 FILE: C:\xampp\htdocs\api_eshop\backend\controller\ProductController.php
